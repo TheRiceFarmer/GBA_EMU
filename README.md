@@ -1,4 +1,10 @@
+# DISCONTINUED.
+THIS HAS BEEN DISCONTINUED
+
+
+
 # Welcome to GBA Emulator
+
 
 GBA Emulator is a free, online GBA emulator! I have 49+ Games to play!
 
